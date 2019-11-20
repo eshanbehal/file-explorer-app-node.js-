@@ -1,0 +1,13 @@
+/*styling breadcrumb*/
+nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.breadcrumb{
+    background-color: #515161;
+    border-radius: 0;
+}
+a, a:hover{
+    color: #AEBD38;
+}
